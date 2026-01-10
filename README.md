@@ -1,8 +1,14 @@
 # Gruvu Theme
 
-> Forked from https://github.com/ankur311sudo/gruvu
+Forked from https://github.com/ankur311sudo/gruvu
 
--------
+Changes:
+
+- window padding adjustments
+- removed rounded window borders
+- search bar styling
+
+---
 
 <img width="2240" height="1400" alt="screenshot-2026-01-04_13-37-35" src="https://github.com/user-attachments/assets/a4bed3a8-f43f-41aa-a928-e51df11c2176" />
 <img width="2240" height="1400" alt="screenshot-2026-01-04_14-20-51" src="https://github.com/user-attachments/assets/1d27bfac-d87d-4f01-a4b5-7d2aa8e9dfd0" />
